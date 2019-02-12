@@ -2,24 +2,24 @@
 <testng-results total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-02-12T09:06:07Z" name="Command line suite" finished-at="2019-02-12T09:06:53Z" duration-ms="46383">
+  <suite started-at="2019-02-12T12:02:25Z" name="Command line suite" finished-at="2019-02-12T12:03:15Z" duration-ms="50017">
     <groups>
     </groups>
-    <test started-at="2019-02-12T09:06:07Z" name="Command line test" finished-at="2019-02-12T09:06:53Z" duration-ms="46383">
-      <class name="com.mnt.webbanking.Test.TestController">
-        <test-method is-config="true" signature="initBrowser()[pri:0, instance:com.mnt.webbanking.Test.TestController@21a21c64]" started-at="2019-02-12T14:36:07Z" name="initBrowser" finished-at="2019-02-12T14:36:16Z" duration-ms="8502" status="PASS">
+    <test started-at="2019-02-12T12:02:25Z" name="Command line test" finished-at="2019-02-12T12:03:15Z" duration-ms="50017">
+      <class name="com.Test.TestController">
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:com.Test.TestController@21a21c64]" started-at="2019-02-12T17:32:25Z" name="initBrowser" finished-at="2019-02-12T17:32:34Z" duration-ms="8430" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBrowser -->
-        <test-method signature="TestCaseController()[pri:0, instance:com.mnt.webbanking.Test.TestController@21a21c64]" started-at="2019-02-12T14:36:16Z" name="TestCaseController" finished-at="2019-02-12T14:36:50Z" duration-ms="34041" status="PASS">
+        <test-method signature="TestCaseController()[pri:0, instance:com.Test.TestController@21a21c64]" started-at="2019-02-12T17:32:34Z" name="TestCaseController" finished-at="2019-02-12T17:33:09Z" duration-ms="35418" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCaseController -->
-        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.mnt.webbanking.Test.TestController@21a21c64]" started-at="2019-02-12T14:36:50Z" name="quitBrowser" finished-at="2019-02-12T14:36:53Z" duration-ms="3824" status="PASS">
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.Test.TestController@21a21c64]" started-at="2019-02-12T17:33:09Z" name="quitBrowser" finished-at="2019-02-12T17:33:15Z" duration-ms="6139" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitBrowser -->
-      </class> <!-- com.mnt.webbanking.Test.TestController -->
+      </class> <!-- com.Test.TestController -->
     </test> <!-- Command line test -->
   </suite> <!-- Command line suite -->
 </testng-results>
